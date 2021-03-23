@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\ServiceTesting\ServiceTesting\bin\ServiceTesting.dll.config
+C:\Users\Usuario\source\repos\ServiceTesting\ServiceTesting\bin\ServiceTesting.dll
+C:\Users\Usuario\source\repos\ServiceTesting\ServiceTesting\bin\ServiceTesting.pdb
+C:\Users\Usuario\source\repos\ServiceTesting\ServiceTesting\obj\Debug\ServiceTesting.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ServiceTesting\ServiceTesting\obj\Debug\ServiceTesting.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ServiceTesting\ServiceTesting\obj\Debug\ServiceTesting.dll
+C:\Users\Usuario\source\repos\ServiceTesting\ServiceTesting\obj\Debug\ServiceTesting.pdb
